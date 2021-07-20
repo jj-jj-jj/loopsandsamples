@@ -1,0 +1,29 @@
+https://sampleswap.org/mp3/song.php?id=3476
+
+Loop_1
+
+duration 00:02.5
+
+02:13.7
+
+02:17.0
+
+02:51.0
+
+02:59.0
+
+
+
+Event_1
+
+duration 00:01.0
+
+01:39.0
+
+01:41.5
+
+
+
+Energy
+
+00:00.0-03:30.0 - 1

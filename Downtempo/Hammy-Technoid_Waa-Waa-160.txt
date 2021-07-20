@@ -1,0 +1,43 @@
+https://sampleswap.org/mp3/artist/211645/Hammy-Technoid_Waa-Waa-160.mp3
+
+Loop_1
+
+duration 00:01.9
+
+00:00.0
+
+00:04.3
+
+
+
+
+Loop_2
+
+duration 00:17.6
+
+00:07.9
+
+00:33.4
+
+
+
+
+Loop_3
+
+duration 00:08.7
+
+01:16.9
+
+01:25.5
+
+01:33.9
+
+01:42.2
+
+
+Energy
+
+00:00-01:24 - 1
+
+01:24-02:00 - 2
+
